@@ -1,4 +1,7 @@
-#Read me
+#Read me#
+
+----------------------------
+
 ![happy](https://cdn2.iconfinder.com/data/icons/despicable-me-2-minions/128/despicable-me-2-Minion-icon-8.png)
 
 This is my personal website. [Welcome](https://peter-goa.github.io/).
