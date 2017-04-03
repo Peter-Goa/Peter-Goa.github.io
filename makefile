@@ -7,7 +7,7 @@ build:
 	git push origin dev
 	@echo Updating was complete. Begin coping the files of the _site
 	mkdir ..\copy_temp
-	copy .\_site  ..\copy_temp
+	xcopy /E/Y .\_site  ..\copy_temp
 	@echo Coping was complete. Begin updateing master branch
 	git checkout master
 	copy /Y ..\copy_temp .\
