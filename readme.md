@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # peter-goa.github.io
+=======
+# Peter-Goa.github.io
+>>>>>>> ab0254aeeda7dd5478584dac8337c425039552e1
 
 ![happy](https://cdn2.iconfinder.com/data/icons/despicable-me-2-minions/128/despicable-me-2-Minion-icon-8.png)
 
