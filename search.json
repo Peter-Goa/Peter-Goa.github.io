@@ -20,7 +20,7 @@
       "title"    : "Dark Post",
       "category" : "",
       "tags"     : "sample post",
-      "url"      : "https://peter-goa.github.io/dark-post/",
+      "url"      : "https://peter-goa.github.io/intro/dark-post/",
       "date"     : "2016-11-30 00:00:00 +0800"
     } ,
   
@@ -28,7 +28,7 @@
       "title"    : "Post with a Background Image",
       "category" : "",
       "tags"     : "sample post",
-      "url"      : "https://peter-goa.github.io/image/background-image/",
+      "url"      : "https://peter-goa.github.io/intro/background-image/",
       "date"     : "2016-11-29 00:00:00 +0800"
     } ,
   
@@ -52,7 +52,7 @@
       "title"    : "A Post with Images",
       "category" : "",
       "tags"     : "sample post, images, test",
-      "url"      : "https://peter-goa.github.io/sample/intro/sample-post-images/",
+      "url"      : "https://peter-goa.github.io/intro/sample-post-images/",
       "date"     : "2016-11-26 00:00:00 +0800"
     } 
   
