@@ -12,3 +12,6 @@ image:
 I completed the [website auto update function](https://github.com/Peter-Goa/autoUpdate "auto update function") .Although the code is simple, it makes me easy to do this work.
 
 ![smile](https://cdn0.iconfinder.com/data/icons/outlined-emoticons-pack/200/emoticons_happy-128.png)
+
+If I do some push at other place, the function will go wrong.
+T_T
