@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Blog Title</title>
+<title type="text">Rulei Guo</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-04-02T18:29:21+08:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="https://peter-goa.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="https://peter-goa.github.io" />
+<updated>2017-04-03T13:22:14+08:00</updated>
+<id>https://peter-goa.github.io/</id>
 <author>
-  <name>Your name</name>
-  <uri>http://localhost:4000/</uri>
-  <email>you@email.com</email>
+  <name>Peter-Goa</name>
+  <uri>https://peter-goa.github.io/</uri>
+  <email>grl0218@163.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Sample Post]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/intro/sample-post/" />
-  <id>http://localhost:4000/intro/sample-post</id>
+ <link rel="alternate" type="text/html" href="https://peter-goa.github.io/intro/sample-post/" />
+  <id>https://peter-goa.github.io/intro/sample-post</id>
   <updated>2016-12-02T00:00:00-00:00</updated>
   <published>2016-12-02T00:00:00+08:00</published>
   
   <author>
-    <name>Your name</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <name>Peter-Goa</name>
+    <uri>https://peter-goa.github.io</uri>
+    <email>grl0218@163.com</email>
   </author>
   <content type="html">
-    &lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
-
+    &lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+&lt;!--more--&gt;&lt;/p&gt;
 &lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
 
 &lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
@@ -44,7 +44,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
 
-&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;https://peter-goa.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
 
@@ -165,22 +165,22 @@
 
 &lt;p&gt;The image must be in the &lt;code class=&quot;highlighter-rouge&quot;&gt;/images&lt;/code&gt; folder.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/intro/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Your name at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blog Title&lt;/a&gt; on December 02, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://peter-goa.github.io/intro/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Peter-Goa at &lt;a href=&quot;https://peter-goa.github.io&quot;&gt;Rulei Guo&lt;/a&gt; on December 02, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Syntax Highlighting Post]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/intro/code-highlighting-post/" />
-  <id>http://localhost:4000/intro/code-highlighting-post</id>
+ <link rel="alternate" type="text/html" href="https://peter-goa.github.io/intro/code-highlighting-post/" />
+  <id>https://peter-goa.github.io/intro/code-highlighting-post</id>
   <updated>2016-12-01T00:00:00-00:00</updated>
   <published>2016-12-01T00:00:00+08:00</published>
   
   <author>
-    <name>Your name</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <name>Peter-Goa</name>
+    <uri>https://peter-goa.github.io</uri>
+    <email>grl0218@163.com</email>
   </author>
   <content type="html">
     &lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -243,21 +243,21 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/intro/code-highlighting-post/&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Your name at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blog Title&lt;/a&gt; on December 01, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://peter-goa.github.io/intro/code-highlighting-post/&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Peter-Goa at &lt;a href=&quot;https://peter-goa.github.io&quot;&gt;Rulei Guo&lt;/a&gt; on December 01, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Dark Post]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/dark-post/" />
-  <id>http://localhost:4000/dark-post</id>
+ <link rel="alternate" type="text/html" href="https://peter-goa.github.io/intro/dark-post/" />
+  <id>https://peter-goa.github.io/intro/dark-post</id>
   <published>2016-11-30T00:00:00+08:00</published>
   <updated>2016-11-30T00:00:00+08:00</updated>
   <author>
-    <name>Your name</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <name>Peter-Goa</name>
+    <uri>https://peter-goa.github.io</uri>
+    <email>grl0218@163.com</email>
   </author>
   <content type="html">
     &lt;p&gt;This is a sample post to show the dark post theme. To use this dark theme, just add:&lt;/p&gt;
@@ -266,21 +266,21 @@
 
 &lt;p&gt;on your post. This theme adds a dark background with a white panel to show your content.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/dark-post/&quot;&gt;Dark Post&lt;/a&gt; was originally published by Your name at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blog Title&lt;/a&gt; on November 30, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://peter-goa.github.io/intro/dark-post/&quot;&gt;Dark Post&lt;/a&gt; was originally published by Peter-Goa at &lt;a href=&quot;https://peter-goa.github.io&quot;&gt;Rulei Guo&lt;/a&gt; on November 30, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post with a Background Image]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/image/background-image/" />
-  <id>http://localhost:4000/image/background-image</id>
+ <link rel="alternate" type="text/html" href="https://peter-goa.github.io/intro/background-image/" />
+  <id>https://peter-goa.github.io/intro/background-image</id>
   <published>2016-11-29T00:00:00+08:00</published>
   <updated>2016-11-29T00:00:00+08:00</updated>
   <author>
-    <name>Your name</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <name>Peter-Goa</name>
+    <uri>https://peter-goa.github.io</uri>
+    <email>grl0218@163.com</email>
   </author>
   <content type="html">
     &lt;p&gt;Here be a sample post with a custom background image. To utilize this “feature” just add the following YAML to a post’s front matter.&lt;/p&gt;
@@ -294,7 +294,7 @@
 
 &lt;div xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot; about=&quot;http://subtlepatterns.com&quot; class=&quot;notice&quot;&gt;Background images from &lt;span property=&quot;dct:title&quot;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&quot;cc:attributionURL&quot; property=&quot;cc:attributionName&quot; href=&quot;http://subtlepatterns.com&quot;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/image/background-image/&quot;&gt;Post with a Background Image&lt;/a&gt; was originally published by Your name at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blog Title&lt;/a&gt; on November 29, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://peter-goa.github.io/intro/background-image/&quot;&gt;Post with a Background Image&lt;/a&gt; was originally published by Peter-Goa at &lt;a href=&quot;https://peter-goa.github.io&quot;&gt;Rulei Guo&lt;/a&gt; on November 29, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -302,32 +302,32 @@
 <entry>
   <title type="html"><![CDATA[Sample Link Post]]></title>
  <link rel="alternate" type="text/html" href="http://aronbordin.com" />
-  <id>http://localhost:4000/intro/sample-link-post</id>
+  <id>https://peter-goa.github.io/intro/sample-link-post</id>
   <published>2016-11-28T00:00:00+08:00</published>
   <updated>2016-11-28T00:00:00+08:00</updated>
   <author>
-    <name>Your name</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <name>Peter-Goa</name>
+    <uri>https://peter-goa.github.io</uri>
+    <email>grl0218@163.com</email>
   </author>
   <content type="html">
     &lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code class=&quot;highlighter-rouge&quot;&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/intro/sample-link-post/&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Your name at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blog Title&lt;/a&gt; on November 28, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://peter-goa.github.io/intro/sample-link-post/&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Peter-Goa at &lt;a href=&quot;https://peter-goa.github.io&quot;&gt;Rulei Guo&lt;/a&gt; on November 28, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Post with a Video]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/intro/video-post/" />
-  <id>http://localhost:4000/intro/video-post</id>
+ <link rel="alternate" type="text/html" href="https://peter-goa.github.io/intro/video-post/" />
+  <id>https://peter-goa.github.io/intro/video-post</id>
   <published>2016-11-27T00:00:00+08:00</published>
   <updated>2016-11-27T00:00:00+08:00</updated>
   <author>
-    <name>Your name</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <name>Peter-Goa</name>
+    <uri>https://peter-goa.github.io</uri>
+    <email>grl0218@163.com</email>
   </author>
   <content type="html">
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
@@ -341,21 +341,21 @@
 {:/nomarkdown}&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/intro/video-post/&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Your name at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blog Title&lt;/a&gt; on November 27, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://peter-goa.github.io/intro/video-post/&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Peter-Goa at &lt;a href=&quot;https://peter-goa.github.io&quot;&gt;Rulei Guo&lt;/a&gt; on November 27, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Post with Images]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/sample/intro/sample-post-images/" />
-  <id>http://localhost:4000/sample/intro/sample-post-images</id>
+ <link rel="alternate" type="text/html" href="https://peter-goa.github.io/intro/sample-post-images/" />
+  <id>https://peter-goa.github.io/intro/sample-post-images</id>
   <published>2016-11-26T00:00:00+08:00</published>
   <updated>2016-11-26T00:00:00+08:00</updated>
   <author>
-    <name>Your name</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <name>Peter-Goa</name>
+    <uri>https://peter-goa.github.io</uri>
+    <email>grl0218@163.com</email>
   </author>
   <content type="html">
     &lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; with the appropriate &lt;code class=&quot;highlighter-rouge&quot;&gt;class&lt;/code&gt;. Each instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
@@ -456,7 +456,7 @@ Available values: [1..3].&lt;/li&gt;
 &lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sample/intro/sample-post-images/&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Your name at &lt;a href=&quot;http://localhost:4000&quot;&gt;Blog Title&lt;/a&gt; on November 26, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://peter-goa.github.io/intro/sample-post-images/&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Peter-Goa at &lt;a href=&quot;https://peter-goa.github.io&quot;&gt;Rulei Guo&lt;/a&gt; on November 26, 2016.&lt;/p&gt;
   </content>
 </entry>
 
