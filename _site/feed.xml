@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://peter-goa.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="https://peter-goa.github.io" />
-<updated>2017-04-03T22:04:09+08:00</updated>
+<updated>2017-04-03T22:07:18+08:00</updated>
 <id>https://peter-goa.github.io/</id>
 <author>
   <name>Peter-Goa</name>
@@ -360,7 +360,8 @@ T_T&lt;/p&gt;
   <content type="html">
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/SU3kYxJmWuQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&quot;http://fitvidsjs.com/&quot;&gt;FitVids&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;Adding YouTube video embeds causes errors when building your Jekyll site. To fix wrap the html within &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;::nomarkdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; tags. Example below:&lt;/p&gt;
 
