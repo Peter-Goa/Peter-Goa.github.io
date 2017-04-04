@@ -1,9 +1,9 @@
 [
   
     {
-      "title"    : "Hello world",
+      "title"    : "A new day",
       "category" : "",
-      "tags"     : "sample post",
+      "tags"     : "Personal",
       "url"      : "https://peter-goa.github.io/life/qingming/",
       "date"     : "2017-04-04 00:00:00 +0800"
     } ,
@@ -11,7 +11,7 @@
     {
       "title"    : "Hello world",
       "category" : "",
-      "tags"     : "sample post",
+      "tags"     : "Personal",
       "url"      : "https://peter-goa.github.io/life/Hello-world/",
       "date"     : "2017-04-02 00:00:00 +0800"
     } ,
