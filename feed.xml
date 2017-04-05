@@ -4,13 +4,37 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://peter-goa.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="https://peter-goa.github.io" />
-<updated>2017-04-04T18:13:58+08:00</updated>
+<updated>2017-04-05T21:36:24+08:00</updated>
 <id>https://peter-goa.github.io/</id>
 <author>
   <name>Peter-Goa</name>
   <uri>https://peter-goa.github.io/</uri>
   <email>grl0218@163.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Linear programming note one]]></title>
+ <link rel="alternate" type="text/html" href="https://peter-goa.github.io/math/LP-01/" />
+  <id>https://peter-goa.github.io/math/LP-01</id>
+  <updated>2017-04-04T00:00:00-00:00</updated>
+  <published>2017-04-05T00:00:00+08:00</published>
+  
+  <author>
+    <name>Peter-Goa</name>
+    <uri>https://peter-goa.github.io</uri>
+    <email>grl0218@163.com</email>
+  </author>
+  <content type="html">
+    &lt;h1 id=&quot;标准形式&quot;&gt;标准形式&lt;/h1&gt;
+
+&lt;p&gt;标准形式的数学表达式的矩阵形式为：&lt;/p&gt;
+
+&lt;p&gt;这应该显示一个数学公式的$\exp(-\frac{x^2}{2})$&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://peter-goa.github.io/math/LP-01/&quot;&gt;Linear programming note one&lt;/a&gt; was originally published by Peter-Goa at &lt;a href=&quot;https://peter-goa.github.io&quot;&gt;Rulei Guo&lt;/a&gt; on April 05, 2017.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
