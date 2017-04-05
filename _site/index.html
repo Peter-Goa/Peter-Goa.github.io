@@ -61,6 +61,39 @@
 
 
 
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<!-- END of mathjax -->
 </head>
 
 <body id="post-index">
@@ -96,6 +129,9 @@
         
           <li class="header-item "><a href="https://peter-goa.github.io/categories"><h3>Categories</h3></a>
             <ul class="header-submenu">
+              
+                
+                  <li class="sub-item"><a href="https://peter-goa.github.io/categories/#Math">Math</a></li>
               
                 
                   <li class="sub-item"><a href="https://peter-goa.github.io/categories/#intro">intro</a></li>
@@ -162,6 +198,9 @@
           <ul>
             
               
+                <li><a href="https://peter-goa.github.io/categories/#Math">Math</a></li>
+            
+              
                 <li><a href="https://peter-goa.github.io/categories/#intro">intro</a></li>
             
               
@@ -183,6 +222,40 @@
 
 <div id="main" role="main">
   
+<article class="hentry">
+  <header>
+    
+      <div class="entry-image-index">
+        <a href="https://peter-goa.github.io/math/LP-01/" title="Linear programming note one"><img src="https://peter-goa.github.io/images/spring_rain.png" alt="Linear programming note one"></a>
+        
+
+      </div><!-- /.entry-image -->
+    
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="2017-04-05T00:00:00+08:00"><a href="https://peter-goa.github.io/math/LP-01/">April 05, 2017</a></time></span><span class="author vcard"><span class="fn"><a href="https://peter-goa.github.io/about/" title="About Peter-Goa">Peter-Goa</a></span></span>
+      
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        
+        Reading time ~1 minute
+      </span><!-- /.entry-reading-time -->
+      
+    </div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title"><a href="https://peter-goa.github.io/math/LP-01/" rel="bookmark" title="Linear programming note one" itemprop="url">Linear programming note one</a></h1>
+    
+  </header>
+  <div class="entry-content">
+      <h1 id="标准形式">标准形式</h1>
+
+<p>标准形式的数学表达式的矩阵形式为：</p>
+
+<p>这应该显示一个数学公式的$\exp(-\frac{x^2}{2})$</p>
+
+      
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
 <article class="hentry">
   <header>
     
@@ -310,34 +383,6 @@ T_T</p>
     </li>
   </ol>
 </div>
-
-      
-  </div><!-- /.entry-content -->
-</article><!-- /.hentry -->
-
-<article class="hentry">
-  <header>
-    
-    <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="2016-11-30T00:00:00+08:00"><a href="https://peter-goa.github.io/intro/dark-post/">November 30, 2016</a></time></span><span class="author vcard"><span class="fn"><a href="https://peter-goa.github.io/about/" title="About Peter-Goa">Peter-Goa</a></span></span>
-      
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        
-        Reading time ~1 minute
-      </span><!-- /.entry-reading-time -->
-      
-    </div><!-- /.entry-meta -->
-    
-      <h1 class="entry-title"><a href="https://peter-goa.github.io/intro/dark-post/" rel="bookmark" title="Dark Post" itemprop="url">Dark Post</a></h1>
-    
-  </header>
-  <div class="entry-content">
-      <p>This is a sample post to show the dark post theme. To use this dark theme, just add:</p>
-
-<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml">    <span class="s">layout</span><span class="pi">:</span> <span class="s">dark-post</span></code></pre></figure>
-
-<p>on your post. This theme adds a dark background with a white panel to show your content.</p>
 
       
   </div><!-- /.entry-content -->
